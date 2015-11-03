@@ -1,4 +1,4 @@
-# React Native RefreshableListView
+# React Native ImageAnimation
 A pure js image animation like ios animationImages, support ios and android
 
 ## Installation
