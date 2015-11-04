@@ -1,6 +1,6 @@
 {
     "name": "react-native-image-animation",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "description": "A pure js image animation like ios animationImages, support ios and android",
         "main": "ImageAnimation.js",
         "author": {
@@ -20,7 +20,7 @@
             "remobile",
             "mobile"
         ],
-        "homepage": "https://github.com/remobile/react-native-image-animationw",
+        "homepage": "https://github.com/remobile/react-native-image-animation",
         "bugs": {
             "url": "https://github.com/remobile/react-native-image-animation/issues"
         },

@@ -3,7 +3,7 @@ A pure js image animation like ios animationImages, support ios and android
 
 ## Installation
 ```sh
-npm install react-native-refresh-image-animation --save
+npm install react-native-image-animation --save
 ```
 
 ## Usage
